@@ -107,13 +107,6 @@ label.text = "Loading..."
 label.textColor = .white
 ```
 
-### Known limitations
-
- - `PressableButton` only works with plain colors (no alpha / transparency) because of the way its background image is rendered. See [#2](https://github.com/TakeScoop/SwiftyButton/issues/2)
- - `PressableButton` manages title and image insets automatically (`titleEdgeInsets` and `imageEdgeInsets`). See [#5](https://github.com/TakeScoop/SwiftyButton/issues/15)
-    - User-specified inset values for `top` and `bottom` will be overridden.
-    - You may specify inset values for `left` and `right`.
-
 More examples
 -------------
 
