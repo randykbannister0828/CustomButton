@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  SwiftyButtonExample
 //
-//  Created by john wayne jackson on 11/27/15.
-//  Copyright © 2015 Randy Bannister. All rights reserved.
+//  Created by John Wayne Jackson on 11/27/15.
+//  Copyright © 2015 John Wayne Jackson. All rights reserved.
 //
 
 import UIKit
