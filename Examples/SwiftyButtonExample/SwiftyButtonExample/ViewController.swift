@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  SwiftyButtonExample
 //
-//  Created by Randy Bannister on 11/27/15.
+//  Created by john wayne jackson on 11/27/15.
 //  Copyright © 2015 Randy Bannister. All rights reserved.
 //
 
